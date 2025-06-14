@@ -38,5 +38,7 @@ cd frontend
 npm install
 npm run dev
 ```
-to clone you can use 
+##to clone you can use 
+```
 git clone https://github.com/Joelorbit/thinkpad
+```
