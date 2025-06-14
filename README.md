@@ -3,7 +3,7 @@
 Highlights:
 
 - 🧱 Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
-- ✨ Create, Update, and Delete Notes with Title & Description
+- ✨ Create, Update, and Delete Notes with Title & Description(crud application)
 - 🛠️ Build and Test a Fully Functional REST API
 - ⚙️ Rate Limiting with Upstash Redis — a Real-World Concept Explained Simply
 - 🚀 Completely Responsive UI
@@ -38,3 +38,5 @@ cd frontend
 npm install
 npm run dev
 ```
+to clone you can use 
+git clone https://github.com/Joelorbit/thinkpad
